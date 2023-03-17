@@ -17,3 +17,4 @@ npx http-server -p 3333 ./
 
 ### or
 just run: `npx webpack | npx http-server -p 3333 ./`
+### NOTE: THIS ONE NOT GOING TO PRODUCE WEBPACK's ERRORS that may be produced
